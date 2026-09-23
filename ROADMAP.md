@@ -3,7 +3,7 @@
 Estas integrações ainda não estão implementadas. Vamos validar cada uma contra
 o painel de origem antes de acrescentá-la à visão consolidada.
 
-## Etapa 2 — TurboDesk / GLPI
+## Etapa 2 — TurboDesk / GLPI (API indisponível, uso dispensado por conter as mesmas informações que o Grafana disponibiliza)
 
 Primeiro confirmar versão do GLPI e API disponível, entidades/grupos atendidos e
 se a visão será “minha fila” ou “fila da equipe”. Não assumir endpoints de um produto
